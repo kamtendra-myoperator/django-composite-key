@@ -51,7 +51,7 @@ Ensure you have the following installed on your local development environment:
 1. **Clone the Repository**:
 
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/kamtendra-myoperator/django-composite-key.git)
+    git clone https://github.com/kamtendra-myoperator/django-composite-key.git
     cd your-repo-name
     ```
 
